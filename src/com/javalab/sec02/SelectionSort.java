@@ -1,3 +1,5 @@
+package com.javalab.sec02;
+
 public class SelectionSort {
     //메서드
     public static void main(String[] args) {
